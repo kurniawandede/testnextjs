@@ -1,0 +1,45 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Red Nike Sneakers",
+        "brand": "Nike",
+        "price": 1500000,
+        "color": "White",
+        "size": ["39", "40", "41"],
+        "description": "Comfortable sneakers with a stylish design.",
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "id": 2,
+        "name": "White Adidas",
+        "brand": "Adidas",
+        "price": 1200000,
+        "color": "Black",
+        "size": ["39", "40", "41"],
+        "description": "High-performance running shoes for athletes.",
+        "image": "https://images.unsplash.com/flagged/photo-1556637640-2c80d3201be8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+      },
+      {
+        "id": 3,
+        "name": "Black Nike Air Jordan",
+        "brand": "Nike",
+        "price": 2800000,
+        "color": "Gray",
+        "size": ["39", "40", "41"],
+        "description": "Stylish and comfortable shoes for everyday wear.",
+        "image": "https://images.unsplash.com/photo-1551726195-0c4e3e49f2a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+      },
+      {
+        "id": 4,
+        "name": "Converse All Star",
+        "brand": "Converse",
+        "price": 99000,
+        "color": "Brown",
+        "size": ["39", "40", "41"],
+        "description": "Elegant formal shoes for special occasions.",
+        "image": "https://images.unsplash.com/photo-1554192833-a5cd504427dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+      }
+    ]
+  }
+  
